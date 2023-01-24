@@ -32,16 +32,16 @@ If you have already node/npm installed, you can simply use: npm install cypress 
 
 
 ### Running the tests
-1. Clone this repository 
-git clone 
+1. Clone this repository <br>
+git clone (https://github.com/marcelamcampos/Pipefy.git) 
 
-2. Access the project folder
+2. Access the project folder <br>
 cd /where-you-saved-the-project
 
-3. Install dependecies
+3. Install dependecies <br>
 $npm install 
 
-5. Execute the project
-$ npx cypress run
+5. Execute the project <br>
+$ npx cypress run <br>
 You can find more on running cypress here: https://docs.cypress.io/guides/guides/command-line
 
